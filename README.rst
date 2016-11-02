@@ -25,6 +25,12 @@ Django Contact Widget is available directly from `PyPI`_:
 ***).** And don't forget to add ``contact_widget`` to your ``INSTALLED_APPS``.
 
 
+Requirement
+----------------------
+
+* ``Django>=1.10.1``
+
+
 Database Migration
 ----------------------
 
@@ -32,12 +38,6 @@ Database Migration
 
     $ ./manage.py makemigrations contact_widget
     $ ./manage.py migrate contact_widget
-
-
-Requirement
-----------------------
-
-* ``Django>=1.10.1``
 
 
 Setting Configuration
@@ -75,7 +75,7 @@ You can include it wherever you like in your site's URL configuration; for examp
 Usage
 ----------------------
 
-Include the tempalte from ``contact_widget/contact.html`` to your sidebar for example.
+Include the template from ``contact_widget/contact.html`` to your sidebar for example.
 
 ::
 
