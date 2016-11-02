@@ -1,2 +1,3 @@
-__pycache__/*
+__pycahce__/*
+*.pyc
 local_settings.py

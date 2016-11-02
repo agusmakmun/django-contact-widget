@@ -6,7 +6,7 @@ from setuptools import setup, find_packages
 from contact_widget import (__VERSION__, __AUTHOR__, __AUTHOR_EMAIL__)
 
 setup(
-    name="contact_widget",
+    name="django-contact-widget",
     packages=find_packages(exclude=["*.demo"]),
     version=__VERSION__,
     url="https://github.com/agusmakmun/django-contact-widget/",
