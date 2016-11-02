@@ -75,7 +75,7 @@ You can include it wherever you like in your site's URL configuration; for examp
 Usage
 ----------------------
 
-Include the tempalte from `contact_widget/contact.html` to your sidebar for example.
+Include the tempalte from ``contact_widget/contact.html`` to your sidebar for example.
 
 ::
 
